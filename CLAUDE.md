@@ -1,5 +1,7 @@
 # Cloudex — instrucciones para Claude Code
 
+> Sigue también `AGENTS.md` en la raíz de este repositorio y las reglas globales en `../Vault_Proyectos/AGENTS.md`.
+
 App web móvil para fotografiar nubes, dibujar la forma que ves y que una IA la analice.
 Proyecto de portfolio: código limpio, bien organizado y fácil de enseñar.
 
